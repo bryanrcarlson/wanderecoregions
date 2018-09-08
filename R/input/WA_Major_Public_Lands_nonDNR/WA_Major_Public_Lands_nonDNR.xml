@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>WA Major Public Lands (non-DNR)</title>
+<onlink>https://fortress.wa.gov/dnr/arcgisext/weba_ext_prod4/rest/services/Cadastre/WADNR_NonDNR_Major_Public_Lands/MapServer</onlink>
+<onlink>https://fortress.wa.gov/dnr/adminsa/gisdata/datadownload/state_ndmpl.zip</onlink>
+<onlink>https://fortress.wa.gov/dnr/adminsa/GisData/metadata/ndmpl.htm</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The NDMPL (Washington State Non-Department of Natural Resources Major Public Lands) data contains ownership parcels for Federal, State (excluding WA DNR), County and City lands within the State of Washington. It also includes Tribal administrative boundaries. The NDMPL data layer is a polygon dataset and does not contain arc attribute information for ownership boundaries. This data is not connected to WA DNR's Cadastre layers (these data include WADNR ownership, Public Land Survey System and other cadastral data). As updates are made to Cadastre layers, they may not be reflected in NDMPL.WA Major Public Lands Metadata</abstract>
+<purpose>WADNR NonDNR Major Public Lands</purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Washington State</themekey>
+<themekey>WA</themekey>
+<themekey>DNR</themekey>
+<themekey>public</themekey>
+<themekey>tribal</themekey>
+<themekey>county</themekey>
+<themekey>city</themekey>
+<themekey>lands</themekey>
+<themekey>ownership</themekey>
+<themekey>wilderness</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>Extreme care was used during compilation of this map to insure accuracy.  However, due to changes in ownership and the need to rely on outside sources of information, the Department of Natural Resources cannot accept responsibility for errors or omissions, and therefore, there are no warranties which accompany this data.
+
+
+This digital data and metadata, (hereinafter collectively referred to as the information, are provided on an AS AVAILABLE and WITH ALL FAULTS basis. Neither Department of Natural Resources nor any of its officials and employees makes any warranty of any kind for this information, express or implied, including but not limited to any warranties of merchant ability or fitness for a particular purpose, nor shall the distribution of this information constitute any warranty. 
+
+
+The information is collected from various sources and will change over time without notice. DNR and its officials and employees assume no responsibility or legal liability for the accuracy, completeness, reliability, timeliness, or usefulness of any of the information provided nor do they represent that the use of any of the information will not infringe privately owned rights. 
+
+The information is not intended to constitute advice nor is it to be used as a substitute for specific advice from a licensed professional. You should not act (or refrain from acting) based upon the information without independently verifying the information and, as necessary, obtaining professional advice regarding your particular facts and circumstances. References to any specific commercial product, process, and service by trade name, trademark, or manufacturer do not constitute or imply endorsement, recommendation, or favoring by DNR and its officials and employees. 
+
+
+
+IN NO EVENT WILL DNR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE DIGITAL DATA, EVEN IF DNR IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+Extreme care was used during compilation of this map to insure accuracy.  However, due to changes in ownership and the need to rely on outside sources of information, the Department of Natural Resources cannot accept responsibility for errors or omissions, and therefore, there are no warranties which accompany this data.</useconst>
+</idinfo>
+<metainfo>
+<metd>20170330</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
