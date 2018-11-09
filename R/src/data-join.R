@@ -23,11 +23,11 @@ pubLands.clean <- pubLands %>%
 landInEco <- st_join(x = pubLands.clean, y = epa.clean)
 
 # Map it
-#tmap_mode("view")
-#landInEco %>% 
-#  filter(US_L4CODE == "10f") %>%
-#  tm_shape() +
-#  tm_polygons(alpha = 0.5)
+tmap_mode("view")
+landInEco %>%
+ #filter(US_L4CODE == "10f") %>%
+ tm_shape() +
+ tm_polygons(alpha = 0.5)
 
 # Save data table
 # https://rstudio.github.io/DT/

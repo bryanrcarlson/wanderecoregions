@@ -1,4 +1,7 @@
-US_L4CODE, date, activity, notes
-10f, 09/08/2018, "kayaked yakima canyon",
-10h, 09/08/2018, Klemguard hiking trail, lily got stung
-10e, 01/15/2017, Fake news!,
+latitude, longitude, US_L4CODE, date, activity
+46.946011,-119.2378166, 10e, 03/18/2017, Hiked Columbia National Wildlife Refuge
+46.877815, -119.293810, 10e, 03/19/2017, Kayaked Hutchison Lake
+46.855464, -120.483796, 10g, 03/25/2017, kayaked Yakima River
+46.798882, -120.427914, 10g, 03/26/2017, Summitted Baldy Mountain
+46.868992, -117.155963, 10h, 09/02/2018, Hiked Kamiak Butte
+46.118080, -117.713900, 11l, 10/13/2018, Partial hike of Oregon Butte Trail
